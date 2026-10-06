@@ -1,4 +1,4 @@
-# 🌸 Animella (アニメラ) — Premium Japanese Anime Discovery
+# 🌸 Animella (アニメラ) 
 
 > **Animella** is a glossy, cinematic, and modern Japanese anime discovery platform featuring **50 iconic anime series**, comprehensive metadata, character showcases, seasonal guides, and trailer previews.
 
